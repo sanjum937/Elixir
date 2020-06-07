@@ -1,0 +1,144 @@
+/* LeafBackground */
+body{
+    position: absolute;
+width: 1457.01px;
+height: 933.28px;
+left: -0.47px;
+top: 0px;
+
+
+background: url(images/leaf.png);
+transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+
+/* Challenge */
+.challenge{
+    position: absolute;
+    width: 552.39px;
+    height: 836.5px;
+    left: 903.46px;
+    top: 176px;
+    
+    background: url(imageedit_9_4101491806.png);
+
+background: url(images/Challenge.png);
+border: 0px;
+transform: matrix(1, 0, 0, 1, 0, 0);
+
+}
+
+/* ChallengeText */
+.challengeText{
+    position: absolute;
+    width: 305.37px;
+    height: 38.89px;
+    left: 991.62px;
+    top: 662px;
+    
+    font-family: Gabriela;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 63px;
+    line-height: 81px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border: 0px;
+    color: #000000;
+    
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    
+}
+
+/* PlannerText */
+.plannerText{
+    position: absolute;
+    width: 256.12px;
+    height: 38.89px;
+    left: 593.62px;
+    top: 659px;
+    
+    font-family: Gabriela;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 65px;
+    line-height: 83px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border: 0px;
+    color: #000000;
+    
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    
+}
+
+/* CalendarText */
+.adviceText{
+    position: absolute;
+    width: 303.1px;
+    height: 38.89px;
+    left: 107.62px;
+    top: 661px;
+    
+    font-family: Gabriela;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 65px;
+    line-height: 83px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border: 0px;
+    color: #000000;
+    
+    transform: matrix(1, 0, 0, 1, 0, 0);
+
+}
+/* CalendarImage */
+.adviceImage{
+    position: absolute;
+    width: 345px;
+    height: 391px;
+    left: 87.53px;
+    top: 256px;
+    
+    
+    border: 0px;
+    background: url(images/advice.png);
+
+}
+/* PlannerImage */
+.plannerImage{
+    position: absolute;
+    width: 388.72px;
+    height: 656.76px;
+    left: 534.49px;
+    top: 64.81px;
+    border: 0px;
+background: url(images/PlannerImage.png);
+transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+/* Create the magical potion! */
+.potion{
+    position: absolute;
+    width: 913.83px;
+    height: 106.29px;
+    left: 264.77px;
+    top: 69px;
+    
+    font-family: Gabriela;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 92px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #FFFFFF;
+    border: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
