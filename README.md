@@ -1,0 +1,2 @@
+# Elixir
+Elixir is inspired by the typical planner everyone uses. We wanted to design Elixir to create a platform where people can easily plan out their activities while also being able to access other resources that make the scheduling experience a little more fun. The name “Elixir” is inspired by its definition: a magical or medicinal potion. We wanted the user to be able to create their own magical potion that acts as a guide to be more productive and improve their daily life. 
