@@ -1,0 +1,32 @@
+/* SickInBed */
+body{
+    position: absolute;
+    width: 1440px;
+    height: 900px;
+    left: 0px;
+    top: 0px;
+    
+
+background: url(images/SickInBed.png);
+}
+
+/* Navigate */
+.navigat{
+position: absolute;
+width: 275px;
+height: 82px;
+left: 36px;
+top: 24px;
+
+font-family: Gabriela;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 82px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}

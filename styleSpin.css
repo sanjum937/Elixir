@@ -1,0 +1,30 @@
+/* SpinWheel (1) 1 */
+body{
+    position: absolute;
+    width: 1440px;
+    height: 900px;
+    left: 0px;
+    top: 0px;
+
+background: url(images/spin.png);
+}
+
+/* Navigate */
+.navigat{
+    position: absolute;
+    width: 206px;
+    height: 61px;
+    left: 23px;
+    top: 24px;
+    
+    font-family: Gabriela;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 61px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #000000;
+    }

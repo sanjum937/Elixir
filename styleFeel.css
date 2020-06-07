@@ -1,0 +1,137 @@
+body{
+/* Action expresses priorities 3 */
+
+position: absolute;
+width: 1464px;
+height: 900px;
+left: 0px;
+top: 0px;
+
+background: url(images/feel.png);
+}
+/* Navigate */
+
+.navi{
+    position: absolute;
+    width: 278px;
+    height: 60px;
+    left: 0px;
+    top: 40px;
+    
+    font-family: Gabriela;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 61px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #000000;
+    
+border: 0px;
+
+}
+
+/* What are you feeling today? */
+.youFeel{
+    position: absolute;
+    width: 1095px;
+    height: 102px;
+    left: 184px;
+    top: 152px;
+    
+    font-family: Gabriela;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 80px;
+    line-height: 102px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #000000;
+    
+ 
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+/* Love */
+.love{
+    position: absolute;
+    width: 284px;
+    height: 287px;
+    left: 914px;
+    top: 314px;
+    border: 0px;
+
+background: url(images/Love.png);
+}
+/* Sick */
+.sick{
+    position: absolute;
+    width: 309px;
+    height: 328px;
+    left: 1108px;
+    top: 553px;
+    
+border: 0px;
+
+background: url(images/Sick.png);
+}
+/* Sleepy */
+.sleepy{
+    position: absolute;
+    width: 294px;
+    height: 307px;
+    left: 100px;
+    top: 593px;
+border: 0px;
+
+background: url(images/Sleepy.png);
+}
+/* Angry */
+.angry{
+    position: absolute;
+    width: 331px;
+    height: 290px;
+    left: 732px;
+    top: 572px;
+border: 0px;
+
+background: url(images/Angry.png);
+}
+/* Wild */
+.wild{
+    position: absolute;
+    width: 261px;
+    height: 295px;
+    left: 264px;
+    top: 306px;
+    
+border: 0px;
+
+background: url(images/Wild.png);
+}
+/* Sad */
+.sad{
+    position: absolute;
+    width: 315px;
+    height: 328px;
+    left: 405px;
+    top: 572px;
+    border: 0px;
+
+background: url(images/Sad.png);
+}
+/* Happy */
+.happy{
+    position: absolute;
+    width: 299px;
+    height: 287px;
+    left: 570px;
+    top: 306px;
+border: 0px;
+
+background: url(images/Happy.png);
+
+}

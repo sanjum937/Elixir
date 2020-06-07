@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "montserrat",sans-serif;
+    box-sizing: border-box;
+  }
+  
+  body{
+  
+    position: absolute;
+width: 1440px;
+height: 900px;
+left: 0px;
+top: 0px;
+        background: url(images/Planner.png);
+    
+  }
+  
+  /* TO-DO LIST */
+.toDo{
+    position: absolute;
+    width: 162px;
+    height: 299px;
+    left: 31px;
+    top: 440px;
+    
+    font-family: KoPub Batang;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 79px;
+    border: 0px;
+    color: #000000;
+}
+  .container{
+    max-width: 800px;
+    margin: auto;
+    padding: 10px;
+  }
+  
+  .txtb{
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid #000;
+    background: none;
+    padding: 10px;
+    outline: none;
+    font-size: 18px;
+  }
+  
+  h3{
+    margin: 10px 0;
+  }
+  
+  .task{
+    width: 100%;
+    background: rgba(255,255,255,0.5);
+    padding: 18px;
+    margin: 6px 0;
+    overflow: hidden;
+  }
+  
+  .task i{
+    float: right;
+    margin-left: 20px;
+    cursor: pointer;
+  }
+  
+  .comp .task{
+    background: rgba(0,0,0,.5);
+    color: #fff;
+  }
+
+
+.navigate{
+/* Navigation Page */
+
+position: absolute;
+width: 316px;
+height: 60px;
+left: 0px;
+top: 0px;
+
+font-family: Gabriela;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 61px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+mix-blend-mode: darken;
+}
